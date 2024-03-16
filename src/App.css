@@ -1,0 +1,27 @@
+.farGalaxy {
+  /* font-size: 2em; */
+  letter-spacing: .2em;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.float-start > img {
+  box-shadow: rgba(60, 69, 67, .6) 10px 10px;
+}
+
+header, footer {
+  background-color: rgba(60, 69, 67, .6);
+}
+
+/* header {
+  background-color: gray;
+} */
+
+h1 {
+  font-size: 2em;
+  padding: 1.5em 0;
+}
+
+footer {
+  height: 6em;
+}
